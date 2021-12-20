@@ -2,7 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java   1 hr 26 mins    █████████████████████████   100.00 % 
+Week: 13 December, 2021 - 19 December, 2021
+
+Java   1 hr 26 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
