@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 June 2022 - To: 17 June 2022
+
+YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
 
 <!--END_SECTION:waka-->
